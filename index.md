@@ -8,4 +8,5 @@ I mainly use the [Colorado State RAMS model](https://vandenheever.atmos.colostat
 ---
 ## Programming Guides
 ### Python
+* [Resources for data science with python](./python_resources/resources.md)
 * [Plotting data on a map with Cartopy](./map_plotting/plot_map.html)
