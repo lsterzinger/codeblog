@@ -1,8 +1,6 @@
 ---
 title: License
 ---
-
-# Site license
 MIT License
 
 Copyright (c) 2020 Lucas Sterzinger (lsterzinger@ucdavis.edu)
