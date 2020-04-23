@@ -1,4 +1,7 @@
-# Python Data Science Resources
+---
+layout: post
+title: Python Data Science Resources
+---
 
 ## Python distribution
 Use Python 3 instead of Python 2, Python 2 is no longer supported as of January 2020.
