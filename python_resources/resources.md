@@ -18,4 +18,4 @@ The *must have* Python resources:
 ## Beginners Guides
 * [https://www.learnpython.org/](https://www.learnpython.org/) provides a good set of interactive tutorials
 * [https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python) another good interactive guide, but uses python 2 instead of 3 (differences are minimal at this level)
-* [https://github.com/karan/Projects-Solutions/blob/master/README.md](https://github.com/karan/Projects-Solutions/blob/master/README.mdS) a list of good programming project ideas, along with sample code in various languages
+* [https://github.com/karan/Projects-Solutions/blob/master/README.md](https://github.com/karan/Projects-Solutions/blob/master/README.md) a list of good programming project ideas, along with sample code in various languages
