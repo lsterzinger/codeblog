@@ -5,6 +5,7 @@ I do a lot of data analysis work, mainly in Python, and I want to give back to t
 
 I mainly use the [Colorado State RAMS model](https://vandenheever.atmos.colostate.edu/vdhpage/rams.php) for my research. To facilitate working with RAMS data in Python, I am working on a (very rough at the moment) library called [RAMSlibs](https://github.com/lsterzinger/ramslibs).
 
+This site is licensed under an [MIT license](LICENSE). Please feel free to view the [source here](https://github.com/lsterzinger/codeblog), contribute a pull request, or copy it all for yourself!
 ---
 ## Programming Guides
 ### Python
