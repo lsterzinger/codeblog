@@ -1,3 +1,7 @@
+---
+title: License
+---
+
 # Site license
 MIT License
 
